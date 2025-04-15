@@ -1,0 +1,6 @@
+agno
+pydantic
+streamlit
+openai
+requests
+supabase==2.15.0
